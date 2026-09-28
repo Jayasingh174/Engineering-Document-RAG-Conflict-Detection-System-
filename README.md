@@ -1,4 +1,4 @@
-# RFQ AI System: Engineering Analysis & RAG Pipeline
+# Engineering Document RAG & Conflict Detection System 
 
 A powerful AI-driven system designed to process Request for Quotation (RFQ) documents. It cross-references Bill of Quantities (Excel), Technical Specifications (PDF), and Engineering Drawings (CAD/DWG) to detect conflicts and provide intelligent answers.
 
