@@ -70,7 +70,7 @@ async def lifespan(app: FastAPI):
 # =========================================================
 # 🏗️ INITIALIZE APP
 # =========================================================
-app = FastAPI(title="RFQ AI System", lifespan=lifespan)
+app = FastAPI(title="Engineering Document RAG & Conflict Detection System", lifespan=lifespan)
 
 # =========================================================
 # 🌐 CORS CONFIGURATION
